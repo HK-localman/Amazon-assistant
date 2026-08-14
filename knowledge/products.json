@@ -1,0 +1,72 @@
+[
+  {
+    "product_id": "mens_tshirt_001",
+    "product_name": "男士速干运动T恤",
+    "category": "男士运动T恤",
+    "material": "聚酯纤维速干面料",
+    "features": [
+      "轻薄透气",
+      "吸湿排汗",
+      "圆领短袖",
+      "弹力面料"
+    ],
+    "scenarios": [
+      "跑步",
+      "健身",
+      "户外运动",
+      "日常休闲"
+    ],
+    "marketplace": "美国站",
+    "keywords": [
+      "mens workout shirt",
+      "quick dry t shirt",
+      "breathable gym shirt"
+    ]
+  },
+  {
+    "product_id": "womens_dress_001",
+    "product_name": "女士雪纺碎花连衣裙",
+    "category": "女士连衣裙",
+    "material": "聚酯纤维雪纺面料",
+    "features": [
+      "V领设计",
+      "收腰版型",
+      "轻盈透气",
+      "碎花图案"
+    ],
+    "scenarios": [
+      "夏季度假",
+      "海边旅行",
+      "日常穿搭"
+    ],
+    "marketplace": "美国站",
+    "keywords": [
+      "womens chiffon dress",
+      "floral summer dress",
+      "vacation beach dress"
+    ]
+  },
+  {
+    "product_id": "ski_jacket_001",
+    "product_name": "男士户外滑雪夹克",
+    "category": "男士滑雪服",
+    "material": "防水聚酯纤维面料",
+    "features": [
+      "防风防水",
+      "保暖内衬",
+      "可调节连帽",
+      "多个拉链口袋"
+    ],
+    "scenarios": [
+      "滑雪",
+      "冬季徒步",
+      "户外旅行"
+    ],
+    "marketplace": "美国站",
+    "keywords": [
+      "mens ski jacket",
+      "waterproof winter coat",
+      "snowboarding jacket"
+    ]
+  }
+]
